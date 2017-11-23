@@ -50,6 +50,28 @@ public struct Pairer {
         
     }
     
+    var resultArray : Array<Array<Int>>? {
+        guard arrayNumbers != nil else {
+            return nil
+        }
+        var arrayCopy = self.numbersList
+        var innerArr = Array<Int>()
+        var newArr = Array<Array<Int>>()
+        for number1 in arrayCopy! {
+            arrayCopy?.remove(at: 0)
+            for number2 in arrayCopy!{
+                if number1 + number2 == target && number1 != number2{
+                    innerArr.append(number1)
+                    innerArr.append(number2)
+                    newArr.append(innerArr)
+                    innerArr = Array<Int>()
+                }
+            }
+        }
+        return newArr
+        
+    }
+    
     var resultDictionary : Array<[Int: Int]>? {
         guard self.numbersList != nil else {
             return nil
