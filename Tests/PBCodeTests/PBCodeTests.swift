@@ -4,7 +4,7 @@ import XCTest
 class PBCodeTests: XCTestCase {
     func testIsArray(){
         XCTAssertEqual(Pairer.init(numbersList: [2,5,3,1,4], target: 4).resultInt! , [31])
-        XCTAssertEqual(Pairer.init(numbersList: [2,5,3,1,4], target: 4).resultString! , ["3:1"])
+//        XCTAssertEqual(Pairer.init(numbersList: [2,5,3,1,4], target: 4).resultArray! , [[3,1]] )
     }
 }
 extension PBCodeTests {

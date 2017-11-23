@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "20b2942f0520fb04ab99bb2f52a156f5"
+build_time: [1511476724, 522280000]
+inputs:
+  "/Users/Mabulhuda/PBCODE/Sources/PBCode/PBCode.swift": [1511476678, 0]

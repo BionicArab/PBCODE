@@ -28,14 +28,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A14221211FC60976001FC5C0 /* PBXContainerItemProxy */ = {
+		A125392A1FC7860200FF7FC2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PBCode::PBCode";
 			remoteInfo = PBCode;
 		};
-		A14221221FC60977001FC5C0 /* PBXContainerItemProxy */ = {
+		A125392B1FC7860300FF7FC2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -234,12 +234,12 @@
 		OBJ_30 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PBCode::PBCode" /* PBCode */;
-			targetProxy = A14221211FC60976001FC5C0 /* PBXContainerItemProxy */;
+			targetProxy = A125392A1FC7860200FF7FC2 /* PBXContainerItemProxy */;
 		};
 		OBJ_42 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PBCode::PBCodeTests" /* PBCodeTests */;
-			targetProxy = A14221221FC60977001FC5C0 /* PBXContainerItemProxy */;
+			targetProxy = A125392B1FC7860300FF7FC2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 

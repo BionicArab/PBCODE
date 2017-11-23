@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Mabulhuda/PBCODE/.build/x86_64-apple-macosx10.10/debug/PBCodeTests.build/master.swiftdeps"
+  },
+  "/Users/Mabulhuda/PBCODE/Tests/PBCodeTests/PBCodeTests.swift": {
+    "dependencies": "/Users/Mabulhuda/PBCODE/.build/x86_64-apple-macosx10.10/debug/PBCodeTests.build/PBCodeTests.d",
+    "object": "/Users/Mabulhuda/PBCODE/.build/x86_64-apple-macosx10.10/debug/PBCodeTests.build/PBCodeTests.swift.o",
+    "swiftmodule": "/Users/Mabulhuda/PBCODE/.build/x86_64-apple-macosx10.10/debug/PBCodeTests.build/PBCodeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/Mabulhuda/PBCODE/.build/x86_64-apple-macosx10.10/debug/PBCodeTests.build/PBCodeTests.swiftdeps"
+  }
+}
