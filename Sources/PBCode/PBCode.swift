@@ -51,7 +51,7 @@ public struct Pairer {
     }
     
     var resultArray : Array<Array<Int>>? {
-        guard arrayNumbers != nil else {
+        guard self.numbersList != nil else {
             return nil
         }
         var arrayCopy = self.numbersList
